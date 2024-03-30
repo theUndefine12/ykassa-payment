@@ -19,8 +19,8 @@ export class AppService {
         "Idempotence-Key": Date.now()
       },
       auth: {
-        username: "357076",
-        password: 'test_9V43jlUrPjnZeBv-kDPRwyH7EylHhsPugf9h4u3UF_s'
+        username: "", // Your Y Kasss ShopId
+        password: '' //  Your Y Kasss Paymenr Token 
       },
       data: {
         "amount": {
